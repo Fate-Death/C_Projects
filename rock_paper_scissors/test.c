@@ -74,5 +74,5 @@ int botwins(){
     printf("Bot wins!\n");
 }
 int playerwins(){
-    printf("You won!\n");
+    printf("You won! \n");
 }
